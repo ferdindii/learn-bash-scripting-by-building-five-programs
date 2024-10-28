@@ -265,3 +265,11 @@ history -a
 echo $?
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+[[10 -ne 5 ]]
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+[[ 10 -ne 5 ]]
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
