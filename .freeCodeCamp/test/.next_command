@@ -112,3 +112,6 @@ history -a
 man echo
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+echo -e \n~~ Questionnaire ~~\n
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
