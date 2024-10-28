@@ -75,3 +75,13 @@ history -a
 ./questionnaire.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+shebang
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
