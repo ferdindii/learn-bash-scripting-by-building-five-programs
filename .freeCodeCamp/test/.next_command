@@ -141,3 +141,6 @@ history -a
 touch countdown.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+chmod +x countdown.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
