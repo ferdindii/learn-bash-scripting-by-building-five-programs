@@ -203,3 +203,55 @@ history -a
 [[ 4 -le 5 ]]
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+echo $ [[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+[[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo [[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+[[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+[[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $ ?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+[[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $?[[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $? [[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+[[ 4 -le 5 ]]
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
