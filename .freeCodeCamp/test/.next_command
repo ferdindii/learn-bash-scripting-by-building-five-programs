@@ -109,3 +109,6 @@ history -a
 echo --help
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+man echo
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
