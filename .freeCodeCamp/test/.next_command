@@ -35,3 +35,19 @@ touch questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+__vsc_prompt_cmd_original
+shebang
+__vsc_prompt_cmd_original
+shebang questionnaire.sh
+pwd
+ls --color=auto
+cd questionnaire.sh
+which questionnaire.sh
+shebang
+__vsc_prompt_cmd_original
+bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+bash shebang
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
