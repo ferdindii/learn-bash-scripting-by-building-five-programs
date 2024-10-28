@@ -138,3 +138,6 @@ history -a
 ./questionnaire.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+touch countdown.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
